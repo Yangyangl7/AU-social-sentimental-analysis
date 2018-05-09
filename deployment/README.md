@@ -37,4 +37,4 @@ Use **Ansible** to automate the environments, like installing packages, uploadin
 
 
 
-3. Follow the instructions in  *cluster_setup.sh* file to setup cluster of couchdb.
+3. Follow the instructions in  *cluster_setup.sh* file to setup the couchdb cluster.
